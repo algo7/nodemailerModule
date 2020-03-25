@@ -1,0 +1,14 @@
+{
+  "name": "mailmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aviv Lo",
+  "license": "ISC",
+  "dependencies": {
+    "node-mailer": "^0.1.1"
+  }
+}
