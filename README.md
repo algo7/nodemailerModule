@@ -1,2 +1,2 @@
-# nodemailerModule
-nodemailer module for the viral app
+# viralApp_supplementaryModules
+Supplementary modules for the viral app
