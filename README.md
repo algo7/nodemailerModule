@@ -9,9 +9,9 @@ POC for implementing Node's Mongo Driver in Meteor.js
 
 Check out:
 
-1. ./dbConnection.js	
-2. ./dbModel.js	
-3. . mongoKey.js
-4. ./server/main.js
+* ./dbConnection.js	
+* ./dbModel.js	
+* ./mongoKey.js
+* ./server/main.js
 
 
