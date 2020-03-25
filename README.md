@@ -8,11 +8,10 @@ Send email using gmail utilizing node-mailer package
 POC for implementing Node's Mongo Driver in Meteor.js
 
 Check out:
-./
-dbConnection.js	
-dbModel.js	
-mongoKey.js
 
-./server/main.js
+1. ./dbConnection.js	
+2. ./dbModel.js	
+3. . mongoKey.js
+4. ./server/main.js
 
 
