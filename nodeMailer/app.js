@@ -34,10 +34,7 @@ const mailFunc = (subject, recipient, msg, cbMail) => {
             cbMail(err);
         })
 }
-mailFunc('asd', 's2803211@gmail.com', 'asd', cbMail => {
-    console.log(cbMail)
-})
 
-
+//Export the module
 module.exports = { mailFunc }
 
